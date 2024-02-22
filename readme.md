@@ -24,18 +24,11 @@ Generare un numero random da 1 a 6, sia per il giocatore sia per il computer. St
 
 ## Steps 
 1.Stabiliamo una funzione con un nome che userò per calcolare i numeri random con min e max dove min è 1 e max è 6
-2.Faccio 2 const con array vuoti in modo che dentro saranno salvati i numeri del giocatore e del computer
-3.Faccio una const con il numero di lanci
-4.Uso loop per fare il lancio dei dadi
-5.Stampo il risultato nella console
-6.Determino il vincitore ??
- -faccio una variabile per ogni giocatore con valore 0 
-7.Faccio una condizione if per vedere nella console i risultati
+2.Stampo il risultato nella console
+3.Determino il vincitore e faccio una condizione if per vedere nella console i risultati
 
 ## Tools
 -const/let
--function
 -Math random with min max
--Array 
 -Condizione IF
 -Loop 
