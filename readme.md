@@ -29,6 +29,7 @@ Generare un numero random da 1 a 6, sia per il giocatore sia per il computer. St
 4.Uso loop per fare il lancio dei dadi
 5.Stampo il risultato nella console
 6.Determino il vincitore ??
+ -faccio una variabile per ogni giocatore con valore 0 
 7.Faccio una condizione if per vedere nella console i risultati
 
 ## Tools
