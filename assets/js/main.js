@@ -1,5 +1,5 @@
 console.log("work");
-//Faccio una const con array e dentro array scrivo i valori per i tipi di mail che sono accettati  
+/* //Faccio una const con array e dentro array scrivo i valori per i tipi di mail che sono accettati  
 const emailTypes = ["stefanraluca22@gmail", "stefanm@yahoo.it", "email1@gmail.com", "email@ymail2.com"];
 const email_user = prompt("Inserisci il tuo indirizzo email:");
 
@@ -22,4 +22,7 @@ if (!emailValida) {
     const msg_false = alert("Riprova a digitare correttamente la tua email !");
 
     console.log(msg_false);
-}
+}*/
+
+
+ 

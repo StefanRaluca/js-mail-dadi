@@ -15,3 +15,26 @@ stampa un messaggio appropriato sull’esito del controllo.
 -input e button submit
 -alert
 -array e loop
+
+
+
+## Instructions
+Generare un numero random da 1 a 6, sia per il giocatore sia per il computer. Stabilire il vincitore, in base a chi fa il punteggio più alto.
+
+
+## Steps 
+1.Stabiliamo una funzione con un nome che userò per calcolare i numeri random con min e max dove min è 1 e max è 6
+2.Faccio 2 const con array vuoti in modo che dentro saranno salvati i numeri del giocatore e del computer
+3.Faccio una const con il numero di lanci
+4.Uso loop per fare il lancio dei dadi
+5.Stampo il risultato nella console
+6.Determino il vincitore ??
+7.Faccio una condizione if per vedere nella console i risultati
+
+## Tools
+-const/let
+-function
+-Math random with min max
+-Array 
+-Condizione IF
+-Loop 
